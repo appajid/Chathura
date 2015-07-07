@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="1">
+  <advance width="355"/>
+  <unicode hex="0041"/>
+  <outline>
+    <contour>
+      <point x="302" y="0" type="line" name="hr00"/>
+      <point x="291" y="0"/>
+      <point x="281" y="15"/>
+      <point x="279" y="20" type="qcurve"/>
+      <point x="248" y="112" type="line"/>
+      <point x="107" y="112" type="line"/>
+      <point x="75" y="18" type="line"/>
+      <point x="72" y="11"/>
+      <point x="60" y="0"/>
+      <point x="51" y="0" type="qcurve"/>
+      <point x="43" y="0" type="line"/>
+      <point x="29" y="0"/>
+      <point x="19" y="21"/>
+      <point x="22" y="30" type="qcurve"/>
+      <point x="147" y="414" type="line"/>
+      <point x="149" y="419"/>
+      <point x="158" y="434"/>
+      <point x="170" y="434" type="qcurve"/>
+      <point x="184" y="434" type="line"/>
+      <point x="202" y="434"/>
+      <point x="209" y="415" type="qcurve"/>
+      <point x="333" y="30" type="line"/>
+      <point x="336" y="21"/>
+      <point x="326" y="0"/>
+      <point x="312" y="0" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="177" y="336" type="line"/>
+      <point x="171" y="316"/>
+      <point x="157" y="270"/>
+      <point x="143" y="224"/>
+      <point x="130" y="183"/>
+      <point x="126" y="169" type="qcurve"/>
+      <point x="229" y="169" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="21" width="-21" />
+      <hstem pos="112" width="57" />
+      <hstem pos="434" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

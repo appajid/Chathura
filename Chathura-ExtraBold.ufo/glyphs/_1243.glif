@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_1243" format="1">
+  <advance width="7"/>
+  <outline>
+    <contour>
+      <point x="-157" y="-255" type="line"/>
+      <point x="-171" y="-252" type="line"/>
+      <point x="-177" y="-250"/>
+      <point x="-189" y="-245"/>
+      <point x="-193" y="-241" type="qcurve"/>
+      <point x="-198" y="-245"/>
+      <point x="-218" y="-255"/>
+      <point x="-225" y="-255" type="qcurve"/>
+      <point x="-249" y="-255" type="line"/>
+      <point x="-272" y="-255"/>
+      <point x="-309" y="-220"/>
+      <point x="-309" y="-192" type="qcurve"/>
+      <point x="-309" y="-97" type="line" name="hr01"/>
+      <point x="-309" y="-69"/>
+      <point x="-272" y="-34"/>
+      <point x="-249" y="-34" type="qcurve"/>
+      <point x="-234" y="-34" type="line" name="hr02"/>
+      <point x="-234" y="-81" type="line"/>
+      <point x="-246" y="-81" type="line" name="hr03"/>
+      <point x="-262" y="-81"/>
+      <point x="-262" y="-99" type="qcurve"/>
+      <point x="-262" y="-191" type="line"/>
+      <point x="-262" y="-208"/>
+      <point x="-246" y="-208" type="qcurve"/>
+      <point x="-231" y="-208" type="line"/>
+      <point x="-225" y="-208"/>
+      <point x="-215" y="-199"/>
+      <point x="-215" y="-191" type="qcurve"/>
+      <point x="-215" y="-177" type="line"/>
+      <point x="-168" y="-177" type="line"/>
+      <point x="-168" y="-191" type="line"/>
+      <point x="-168" y="-199"/>
+      <point x="-158" y="-208"/>
+      <point x="-152" y="-208" type="qcurve"/>
+      <point x="-134" y="-208" type="line"/>
+      <point x="-129" y="-208"/>
+      <point x="-118" y="-200"/>
+      <point x="-118" y="-191" type="qcurve"/>
+      <point x="-118" y="-99" type="line"/>
+      <point x="-118" y="-90"/>
+      <point x="-128" y="-82"/>
+      <point x="-134" y="-81" type="qcurve"/>
+      <point x="-150" y="-81" type="line"/>
+      <point x="-157" y="-81"/>
+      <point x="-167" y="-90"/>
+      <point x="-167" y="-100" type="qcurve"/>
+      <point x="-167" y="-130" type="line"/>
+      <point x="-149" y="-130" type="line"/>
+      <point x="-149" y="-170" type="line"/>
+      <point x="-243" y="-170" type="line" name="hr04"/>
+      <point x="-243" y="-130" type="line"/>
+      <point x="-214" y="-130" type="line"/>
+      <point x="-214" y="-97" type="line"/>
+      <point x="-214" y="-69"/>
+      <point x="-177" y="-34"/>
+      <point x="-154" y="-34" type="qcurve"/>
+      <point x="-132" y="-34" type="line"/>
+      <point x="-109" y="-34"/>
+      <point x="-71" y="-69"/>
+      <point x="-71" y="-97" type="qcurve"/>
+      <point x="-71" y="-192" type="line"/>
+      <point x="-71" y="-220"/>
+      <point x="-109" y="-255"/>
+      <point x="-132" y="-255" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="-255" width="47" />
+      <hstem pos="-177" width="-20" />
+      <hstem pos="-130" width="-20" />
+      <vstem pos="-309" width="47" />
+      <vstem pos="-214" width="47" />
+      <vstem pos="-118" width="47" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="-255" width="47" />
+      <hstem pos="-177" width="-20" />
+      <hstem pos="-170" width="136" />
+      <vstem pos="-309" width="47" />
+      <vstem pos="-214" width="47" />
+      <vstem pos="-118" width="47" />
+    </hintset>
+    <hintset pointTag="hr03">
+      <hstem pos="-255" width="47" />
+      <hstem pos="-177" width="-20" />
+      <hstem pos="-130" width="-20" />
+      <vstem pos="-309" width="47" />
+      <vstem pos="-214" width="47" />
+      <vstem pos="-118" width="47" />
+    </hintset>
+    <hintset pointTag="hr04">
+      <hstem pos="-255" width="47" />
+      <hstem pos="-177" width="-20" />
+      <hstem pos="-170" width="136" />
+      <vstem pos="-309" width="47" />
+      <vstem pos="-214" width="47" />
+      <vstem pos="-118" width="47" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

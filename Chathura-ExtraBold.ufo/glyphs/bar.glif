@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar" format="1">
+  <advance width="135"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="64" y="0" type="line" name="hr00"/>
+      <point x="52" y="0"/>
+      <point x="42" y="17"/>
+      <point x="42" y="25" type="qcurve"/>
+      <point x="42" y="409" type="line"/>
+      <point x="42" y="417"/>
+      <point x="52" y="434"/>
+      <point x="64" y="434" type="qcurve"/>
+      <point x="72" y="434" type="line"/>
+      <point x="95" y="434"/>
+      <point x="95" y="409" type="qcurve"/>
+      <point x="95" y="25" type="line"/>
+      <point x="95" y="0"/>
+      <point x="72" y="0" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="21" width="-21" />
+      <hstem pos="434" width="-20" />
+      <vstem pos="42" width="53" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
