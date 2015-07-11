@@ -1,46 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0C01" format="1">
-  <advance width="209"/>
+  <advance width="214"/>
   <unicode hex="0C01"/>
   <outline>
     <contour>
-      <point x="61" y="0" type="line"/>
+      <point x="61" y="0" type="line" smooth="yes"/>
       <point x="38" y="0"/>
       <point x="0" y="37"/>
-      <point x="0" y="66" type="qcurve"/>
-      <point x="0" y="263" type="line"/>
+      <point x="0" y="66" type="qcurve" smooth="yes"/>
+      <point x="0" y="263" type="line" smooth="yes"/>
       <point x="0" y="291"/>
       <point x="38" y="328"/>
-      <point x="61" y="328" type="qcurve" name="hr01"/>
+      <point x="61" y="328" type="qcurve" smooth="yes"/>
       <point x="162" y="328" type="line"/>
       <point x="162" y="280" type="line"/>
-      <point x="64" y="280" type="line" name="hr02"/>
-      <point x="47" y="280"/>
-      <point x="47" y="263" type="qcurve"/>
-      <point x="47" y="66" type="line"/>
-      <point x="47" y="48"/>
-      <point x="64" y="48" type="qcurve"/>
+      <point x="64" y="280" type="line" smooth="yes"/>
+      <point x="55.5" y="280.0" name="inserted"/>
+      <point x="47.0" y="271.5"/>
+      <point x="47" y="263" type="qcurve" smooth="yes"/>
+      <point x="47" y="66" type="line" smooth="yes"/>
+      <point x="47.0" y="57.0" name="inserted"/>
+      <point x="55.5" y="48.0"/>
+      <point x="64" y="48" type="qcurve" smooth="yes"/>
       <point x="162" y="48" type="line"/>
       <point x="162" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr01">
-      <hstem pos="0" width="48" />
-      <hstem pos="280" width="48" />
-      <vstem pos="0" width="47" />
-    </hintset>
-    <hintset pointTag="hr02">
-      <hstem pos="0" width="48" />
-      <hstem pos="280" width="48" />
-      <vstem pos="0" width="162" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
   </lib>
 </glyph>

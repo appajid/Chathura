@@ -1,54 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zero" format="1">
-  <advance width="381"/>
+  <advance width="370"/>
   <unicode hex="0030"/>
   <outline>
     <contour>
-      <point x="158" y="0" type="line" name="hr00"/>
-      <point x="110" y="0"/>
-      <point x="52" y="62"/>
-      <point x="52" y="113" type="qcurve"/>
-      <point x="52" y="369" type="line"/>
-      <point x="52" y="420"/>
-      <point x="110" y="482"/>
-      <point x="158" y="482" type="qcurve"/>
-      <point x="223" y="482" type="line"/>
-      <point x="271" y="482"/>
-      <point x="328" y="420"/>
-      <point x="328" y="369" type="qcurve"/>
-      <point x="328" y="113" type="line"/>
-      <point x="328" y="62"/>
-      <point x="271" y="0"/>
-      <point x="223" y="0" type="qcurve"/>
+      <point x="149" y="0" type="line" smooth="yes"/>
+      <point x="101" y="0"/>
+      <point x="43" y="62"/>
+      <point x="43" y="113" type="qcurve" smooth="yes"/>
+      <point x="43" y="369" type="line" smooth="yes"/>
+      <point x="43" y="420"/>
+      <point x="101" y="482"/>
+      <point x="149" y="482" type="qcurve" smooth="yes"/>
+      <point x="214" y="482" type="line" smooth="yes"/>
+      <point x="262" y="482"/>
+      <point x="319" y="420"/>
+      <point x="319" y="369" type="qcurve" smooth="yes"/>
+      <point x="319" y="113" type="line" smooth="yes"/>
+      <point x="319" y="62"/>
+      <point x="262" y="0"/>
+      <point x="214" y="0" type="qcurve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="272" y="368" type="line"/>
-      <point x="272" y="425"/>
-      <point x="223" y="425" type="qcurve"/>
-      <point x="158" y="425" type="line"/>
-      <point x="109" y="425"/>
-      <point x="109" y="368" type="qcurve"/>
-      <point x="109" y="114" type="line"/>
-      <point x="109" y="57"/>
-      <point x="158" y="57" type="qcurve"/>
-      <point x="223" y="57" type="line"/>
-      <point x="272" y="57"/>
-      <point x="272" y="114" type="qcurve"/>
+      <point x="263" y="368" type="line" smooth="yes"/>
+      <point x="263.0" y="396.5" name="inserted"/>
+      <point x="238.5" y="425.0"/>
+      <point x="214" y="425" type="qcurve" smooth="yes"/>
+      <point x="149" y="425" type="line" smooth="yes"/>
+      <point x="124.5" y="425.0" name="inserted"/>
+      <point x="100.0" y="396.5"/>
+      <point x="100" y="368" type="qcurve" smooth="yes"/>
+      <point x="100" y="114" type="line" smooth="yes"/>
+      <point x="100.0" y="85.5" name="inserted"/>
+      <point x="124.5" y="57.0"/>
+      <point x="149" y="57" type="qcurve" smooth="yes"/>
+      <point x="214" y="57" type="line" smooth="yes"/>
+      <point x="238.5" y="57.0" name="inserted"/>
+      <point x="263.0" y="85.5"/>
+      <point x="263" y="114" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr00">
-      <hstem pos="0" width="57" />
-      <hstem pos="425" width="57" />
-      <vstem pos="52" width="57" />
-      <vstem pos="272" width="56" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
   </lib>
 </glyph>

@@ -4,7 +4,7 @@
   <unicode hex="00D7"/>
   <outline>
     <contour>
-      <point x="117" y="-2" type="line" name="hr00"/>
+      <point x="117" y="-2" type="line"/>
       <point x="70" y="45" type="line"/>
       <point x="225" y="201" type="line"/>
       <point x="70" y="356" type="line"/>
@@ -20,16 +20,10 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr00">
-      <hstem pos="14" width="-21" />
-      <hstem pos="407" width="-20" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
   </lib>
 </glyph>

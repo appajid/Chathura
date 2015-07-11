@@ -1,44 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="arrowleft" format="1">
-  <advance width="750"/>
+  <advance width="755"/>
   <unicode hex="2190"/>
   <outline>
     <contour>
-      <point x="222" y="284" type="line" name="hr00"/>
-      <point x="241" y="258"/>
-      <point x="255" y="230" type="qcurve"/>
-      <point x="274" y="189"/>
+      <point x="222" y="284" type="line"/>
+      <point x="231.5" y="271.0" name="inserted"/>
+      <point x="248.0" y="244.0"/>
+      <point x="255" y="230" type="qcurve" smooth="yes"/>
+      <point x="264.5" y="209.5" name="inserted"/>
+      <point x="274.0" y="156.5"/>
       <point x="274" y="124" type="qcurve"/>
       <point x="247" y="160"/>
       <point x="193" y="217"/>
+      <point x="163.5" y="239.5" type="qcurve" smooth="yes" name="inserted"/>
       <point x="134" y="262"/>
       <point x="67" y="298"/>
       <point x="27" y="313" type="qcurve"/>
       <point x="67" y="327"/>
       <point x="134" y="362"/>
+      <point x="164.0" y="384.5" type="qcurve" smooth="yes" name="inserted"/>
       <point x="194" y="407"/>
       <point x="247" y="463"/>
       <point x="274" y="499" type="qcurve"/>
-      <point x="274" y="437"/>
-      <point x="255" y="393" type="qcurve"/>
-      <point x="239" y="356"/>
+      <point x="274.0" y="468.0" name="inserted"/>
+      <point x="264.5" y="415.0"/>
+      <point x="255" y="393" type="qcurve" smooth="yes"/>
+      <point x="247.0" y="374.5" name="inserted"/>
+      <point x="232.0" y="348.5"/>
       <point x="225" y="341" type="qcurve"/>
       <point x="730" y="341" type="line"/>
       <point x="730" y="284" type="line"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr00">
-      <hstem pos="145" width="-21" />
-      <hstem pos="284" width="57" />
-      <hstem pos="499" width="-20" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
   </lib>
 </glyph>

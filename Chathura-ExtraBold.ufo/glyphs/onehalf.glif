@@ -5,7 +5,7 @@
   <outline>
     <contour>
       <point x="450" y="-11" type="line"/>
-      <point x="450" y="10" type="line"/>
+      <point x="450" y="10" type="line" smooth="yes"/>
       <point x="450" y="52"/>
       <point x="497" y="113"/>
       <point x="549" y="141" type="qcurve"/>
@@ -17,28 +17,30 @@
       <point x="642" y="194" type="qcurve"/>
       <point x="651" y="205"/>
       <point x="661" y="225"/>
-      <point x="661" y="239" type="qcurve"/>
+      <point x="661" y="239" type="qcurve" smooth="yes"/>
       <point x="661" y="267"/>
       <point x="626" y="299"/>
-      <point x="593" y="299" type="qcurve"/>
+      <point x="593" y="299" type="qcurve" smooth="yes"/>
       <point x="556" y="299"/>
       <point x="518" y="261"/>
       <point x="517" y="215" type="qcurve"/>
       <point x="459" y="215" type="line"/>
       <point x="461" y="285"/>
       <point x="531" y="348"/>
-      <point x="594" y="348" type="qcurve"/>
+      <point x="594" y="348" type="qcurve" smooth="yes"/>
       <point x="651" y="348"/>
       <point x="720" y="290"/>
-      <point x="720" y="239" type="qcurve"/>
-      <point x="720" y="193"/>
+      <point x="720" y="239" type="qcurve" smooth="yes"/>
+      <point x="720.0" y="216.0" name="inserted"/>
+      <point x="703.0" y="178.0"/>
       <point x="686" y="163" type="qcurve"/>
-      <point x="669" y="145"/>
-      <point x="613" y="116" type="qcurve"/>
-      <point x="584" y="101" type="line"/>
+      <point x="677.5" y="154.0" name="inserted"/>
+      <point x="641.0" y="130.5"/>
+      <point x="613" y="116" type="qcurve" smooth="yes"/>
+      <point x="584" y="101" type="line" smooth="yes"/>
       <point x="542" y="80"/>
       <point x="511" y="45"/>
-      <point x="510" y="38" type="qcurve" name="hr01"/>
+      <point x="510" y="38" type="qcurve"/>
       <point x="719" y="38" type="line"/>
       <point x="719" y="-11" type="line"/>
     </contour>
@@ -54,11 +56,12 @@
       <point x="158" y="510"/>
       <point x="153" y="507"/>
       <point x="136" y="503" type="qcurve"/>
-      <point x="101" y="497"/>
-      <point x="66" y="497" type="qcurve"/>
+      <point x="118.5" y="500.0" name="inserted"/>
+      <point x="83.5" y="497.0"/>
+      <point x="66" y="497" type="qcurve" smooth="yes"/>
       <point x="50" y="497" type="line"/>
       <point x="50" y="540" type="line"/>
-      <point x="63" y="540" type="line"/>
+      <point x="63" y="540" type="line" smooth="yes"/>
       <point x="106" y="540"/>
       <point x="145" y="567"/>
       <point x="149" y="606" type="qcurve"/>
@@ -67,20 +70,10 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr01">
-      <hstem pos="-11" width="49" />
-      <hstem pos="299" width="49" />
-      <hstem pos="614" width="-20" />
-      <vstem pos="144" width="59" />
-      <vstem pos="459" width="58" />
-      <vstem pos="661" width="59" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
   </lib>
 </glyph>

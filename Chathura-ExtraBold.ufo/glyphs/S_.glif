@@ -1,86 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="S" format="1">
-  <advance width="383"/>
+  <advance width="326"/>
   <unicode hex="0053"/>
   <outline>
     <contour>
-      <point x="157" y="0" type="line" name="hr00"/>
-      <point x="112" y="0"/>
-      <point x="60" y="55"/>
-      <point x="60" y="103" type="qcurve"/>
-      <point x="60" y="128" type="line"/>
-      <point x="60" y="138"/>
-      <point x="72" y="152"/>
-      <point x="83" y="152" type="qcurve"/>
-      <point x="92" y="152" type="line"/>
-      <point x="104" y="152"/>
-      <point x="115" y="136"/>
-      <point x="115" y="128" type="qcurve"/>
-      <point x="115" y="104" type="line"/>
-      <point x="115" y="55"/>
-      <point x="157" y="55" type="qcurve"/>
-      <point x="226" y="55" type="line"/>
-      <point x="268" y="55"/>
-      <point x="268" y="104" type="qcurve"/>
-      <point x="268" y="134" type="line"/>
-      <point x="268" y="151"/>
-      <point x="238" y="179"/>
-      <point x="209" y="186" type="qcurve"/>
-      <point x="188" y="191"/>
-      <point x="136" y="203"/>
-      <point x="91" y="226"/>
-      <point x="60" y="264"/>
-      <point x="60" y="294" type="qcurve"/>
-      <point x="60" y="331" type="line"/>
-      <point x="60" y="377"/>
-      <point x="112" y="434"/>
-      <point x="157" y="434" type="qcurve"/>
-      <point x="226" y="434" type="line"/>
-      <point x="271" y="434"/>
-      <point x="322" y="377"/>
-      <point x="322" y="331" type="qcurve"/>
-      <point x="322" y="313" type="line"/>
-      <point x="322" y="305"/>
-      <point x="311" y="288"/>
-      <point x="299" y="288" type="qcurve"/>
-      <point x="292" y="288" type="line"/>
-      <point x="268" y="288"/>
-      <point x="268" y="313" type="qcurve"/>
-      <point x="268" y="330" type="line"/>
-      <point x="268" y="379"/>
-      <point x="226" y="379" type="qcurve"/>
-      <point x="157" y="379" type="line"/>
-      <point x="115" y="379"/>
-      <point x="115" y="330" type="qcurve"/>
-      <point x="115" y="295" type="line"/>
-      <point x="115" y="283"/>
-      <point x="138" y="258"/>
-      <point x="173" y="250" type="qcurve"/>
-      <point x="197" y="245"/>
-      <point x="245" y="233"/>
-      <point x="268" y="221" type="qcurve"/>
-      <point x="291" y="209"/>
-      <point x="322" y="168"/>
-      <point x="322" y="136" type="qcurve"/>
-      <point x="322" y="103" type="line"/>
-      <point x="322" y="55"/>
-      <point x="271" y="0"/>
-      <point x="226" y="0" type="qcurve"/>
+      <point x="127" y="0" type="line" smooth="yes"/>
+      <point x="82" y="0"/>
+      <point x="30" y="55"/>
+      <point x="30" y="103" type="qcurve" smooth="yes"/>
+      <point x="30" y="128" type="line" smooth="yes"/>
+      <point x="30" y="138"/>
+      <point x="42" y="152"/>
+      <point x="53" y="152" type="qcurve" smooth="yes"/>
+      <point x="62" y="152" type="line" smooth="yes"/>
+      <point x="74" y="152"/>
+      <point x="85" y="136"/>
+      <point x="85" y="128" type="qcurve" smooth="yes"/>
+      <point x="85" y="104" type="line" smooth="yes"/>
+      <point x="85.0" y="79.5" name="inserted"/>
+      <point x="106.0" y="55.0"/>
+      <point x="127" y="55" type="qcurve" smooth="yes"/>
+      <point x="196" y="55" type="line" smooth="yes"/>
+      <point x="217.0" y="55.0" name="inserted"/>
+      <point x="238.0" y="79.5"/>
+      <point x="238" y="104" type="qcurve" smooth="yes"/>
+      <point x="238" y="134" type="line" smooth="yes"/>
+      <point x="238" y="151"/>
+      <point x="208" y="179"/>
+      <point x="179" y="186" type="qcurve" smooth="yes"/>
+      <point x="158" y="191"/>
+      <point x="106" y="203"/>
+      <point x="83.5" y="214.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="61" y="226"/>
+      <point x="30" y="264"/>
+      <point x="30" y="294" type="qcurve" smooth="yes"/>
+      <point x="30" y="331" type="line" smooth="yes"/>
+      <point x="30" y="377"/>
+      <point x="82" y="434"/>
+      <point x="127" y="434" type="qcurve" smooth="yes"/>
+      <point x="196" y="434" type="line" smooth="yes"/>
+      <point x="241" y="434"/>
+      <point x="292" y="377"/>
+      <point x="292" y="331" type="qcurve" smooth="yes"/>
+      <point x="292" y="313" type="line" smooth="yes"/>
+      <point x="292" y="305"/>
+      <point x="281" y="288"/>
+      <point x="269" y="288" type="qcurve" smooth="yes"/>
+      <point x="262" y="288" type="line" smooth="yes"/>
+      <point x="250.0" y="288.0" name="inserted"/>
+      <point x="238.0" y="300.5"/>
+      <point x="238" y="313" type="qcurve" smooth="yes"/>
+      <point x="238" y="330" type="line" smooth="yes"/>
+      <point x="238.0" y="354.5" name="inserted"/>
+      <point x="217.0" y="379.0"/>
+      <point x="196" y="379" type="qcurve" smooth="yes"/>
+      <point x="127" y="379" type="line" smooth="yes"/>
+      <point x="106.0" y="379.0" name="inserted"/>
+      <point x="85.0" y="354.5"/>
+      <point x="85" y="330" type="qcurve" smooth="yes"/>
+      <point x="85" y="295" type="line" smooth="yes"/>
+      <point x="85" y="283"/>
+      <point x="108" y="258"/>
+      <point x="143" y="250" type="qcurve" smooth="yes"/>
+      <point x="167" y="245"/>
+      <point x="215" y="233"/>
+      <point x="238" y="221" type="qcurve" smooth="yes"/>
+      <point x="261" y="209"/>
+      <point x="292" y="168"/>
+      <point x="292" y="136" type="qcurve" smooth="yes"/>
+      <point x="292" y="103" type="line" smooth="yes"/>
+      <point x="292" y="55"/>
+      <point x="241" y="0"/>
+      <point x="196" y="0" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr00">
-      <hstem pos="0" width="55" />
-      <hstem pos="379" width="55" />
-      <vstem pos="60" width="55" />
-      <vstem pos="268" width="54" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
   </lib>
 </glyph>

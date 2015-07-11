@@ -3,7 +3,7 @@
   <advance width="800"/>
   <outline>
     <contour>
-      <point x="700" y="700" type="line" name="hr00"/>
+      <point x="700" y="700" type="line"/>
       <point x="700" y="0" type="line"/>
       <point x="100" y="0" type="line"/>
       <point x="100" y="700" type="line"/>
@@ -16,18 +16,10 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr00">
-      <hstem pos="0" width="50" />
-      <hstem pos="650" width="50" />
-      <vstem pos="100" width="50" />
-      <vstem pos="650" width="50" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
   </lib>
 </glyph>
