@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1374624000
-ModificationTime: 1438185284
+ModificationTime: 1440399888
 PfmFamily: 17
 TTFWeight: 200
 TTFWidth: 5
@@ -583,7 +583,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1020 17 14
+WinInfo: 576 12 7
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 188743 94371 62914 534774 1048576 62914 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -52797,16 +52797,16 @@ LayerCount: 2
 Back
 Fore
 SplineSet
-60 -361 m 2,0,1
- 42 -361 42 -361 27.5 -346 c 128,-1,2
- 13 -331 13 -331 13 -307 c 2,3,-1
- 13 59 l 1,4,-1
- 35 59 l 1,5,-1
- 35 -306 l 2,6,7
- 35 -337 35 -337 64 -337 c 2,8,-1
- 339 -337 l 1,9,-1
- 339 -361 l 1,10,-1
- 60 -361 l 2,0,1
+-287 -361 m 1,0,-1
+ -287 -337 l 1,1,-1
+ -12 -337 l 2,2,3
+ 17 -337 17 -337 17 -306 c 2,4,-1
+ 17 59 l 1,5,-1
+ 39 59 l 1,6,-1
+ 39 -307 l 2,7,8
+ 39 -331 39 -331 24.5 -346 c 128,-1,9
+ 10 -361 10 -361 -8 -361 c 2,10,-1
+ -287 -361 l 1,0,-1
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "'haln' Halant Forms in Telugu lookup 14 subtable" glyph642 uni0C4D
