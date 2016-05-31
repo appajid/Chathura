@@ -1,4 +1,4 @@
-Copyright (c) 2015 Appaji Ambarisha Darbha Copyright (c) 2015, Appaji Ambarisha Darbha (ambarisha@gmail.com).
+Copyright 2009 The Chathura Project Authors. 
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
